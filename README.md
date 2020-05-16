@@ -1,1 +1,2 @@
-# Import File Excel data bergambar di php dan mysql
+# Upload Data File Excel ke dalam php dan mysql
+## Silahkan download liberary PHPExcelnya
