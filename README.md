@@ -1,5 +1,5 @@
 # Upload Data File Excel ke dalam php dan mysql
-## Silahkan download liberary PHPExcelnya
+## Silahkan download library PHPExcelnya
 Silahkan cek videonya di [RudiEdukasi](https://www.youtube.com/watch?v=bcQg8A68U3M)
 ### Source Code 
 index.php
